@@ -13,7 +13,5 @@ paginate         : 5
 paginate_path    : "/page:num/"
 excerpt_separator: "\n\n"
 # Build settings
-markdown         : redcarpet
+markdown         : kramdown
 highlighter      : pygments
-redcarpet        :
-  extensions: [smart, strikethrough, superscript, tables]
