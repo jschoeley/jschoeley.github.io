@@ -12,7 +12,7 @@ Did you know that the cover of Joy Divisions classic "Unknown Pleasures" [shows 
 
 And who's to say Swedish mortality isn't as interesting as cosmic pulsars? Let me show you the unknown pleasures of demography. Swedish life-tables by period.
 
-```
+```r
 library(HMDHFDplus)
 lt <- readHMDweb(CNTRY = "RUS", item = "bltper_1x1",
                  username = "***", password = "***")
@@ -20,7 +20,7 @@ lt <- readHMDweb(CNTRY = "RUS", item = "bltper_1x1",
 
 Below you find a small function taking in three vectors and spitting out superimposed curves Joy Division Style. You can even change viewing direction and angle...
 
-```
+```r
 MakeJoy <- function(x, y, z, angle = 1, reverse = FALSE) {
   require(ggplot2)
   Normalize <- function (x) {(x-min(x))/(max(x)-min(x))}
@@ -48,7 +48,7 @@ MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx)
 
 The `angle` argument changes a global scaling factor which is the same for all the lines and simulates the effect of a pseudo-perspective change.
 
-```
+```r
 MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx, angle = 4)
 ```
 
@@ -56,7 +56,7 @@ MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx, angle = 4)
 
 We can also look at the plot from the opposite side.
 
-```
+```r
 MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx, reverse = TRUE)
 ```
 
@@ -64,7 +64,7 @@ MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx, reverse = TRUE)
 
 What are we actually looking at? A series of filled polygons occluding each other.
 
-```
+```r
 MakeJoy(x = lt$Age, y = lt$Year, z = lt$dx) + theme_classic()
 ```
 
@@ -84,7 +84,7 @@ Using lines as primary visual encoding allows us to see small details in the dat
 
 Let's get serious...
 
-```
+```r
 library(tidyverse)
 library(gridExtra)
 
