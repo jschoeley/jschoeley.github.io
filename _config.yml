@@ -15,3 +15,5 @@ excerpt_separator: "\n\n"
 # Build settings
 markdown         : kramdown
 highlighter      : Rouge
+# Gems
+plugins: [jekyll-paginate]
