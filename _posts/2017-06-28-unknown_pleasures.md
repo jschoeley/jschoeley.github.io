@@ -10,7 +10,7 @@ layout : post
 
 Did you know that the cover of Joy Divisions classic "Unknown Pleasures" [shows the radio frequency spectrum of the first discovered pulsar over time?](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) I always loved this visualization. It's a poor man's perspective plot but because of its limitations full of charm. Also, unlike true 3D plots it does not feature visual compression towards a vanishing point. Each line is just offset by some value along the y-axis but not otherwise rescaled, i.e. differences in magnitude don't appear more striking in the foreground and get squished towards the "horizon", they remain constant.
 
-And who's to say Swedish mortality isn't as interesting as cosmic pulsars? Let me show you the unknown pleasures of demography. Swedish life-tables by period.
+And who's to say the human age-distribution of death isn't as interesting as cosmic pulsars? Let me show you the unknown pleasures of demography. For the fist examples we download the density of deaths over age by period for Russia from the [Human Mortality Database](http://www.mortality.org/). You need to register to download data -- don't worry its a short and painless affair.
 
 ```r
 library(HMDHFDplus)
