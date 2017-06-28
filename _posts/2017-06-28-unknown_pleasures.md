@@ -100,97 +100,145 @@ walk(getHMDcountries(), function (x) {
 ```
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-1.png)
+*Age-distribution of death over time Australia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-2.png)
+*Age-distribution of death over time Austria*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-3.png)
+*Age-distribution of death over time Belgium*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-4.png)
+*Age-distribution of death over time Bulgaria*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-5.png)
+*Age-distribution of death over time Belarus*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-6.png)
+*Age-distribution of death over time Canada*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-7.png)
+*Age-distribution of death over time Chile*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-8.png)
+*Age-distribution of death over time Croatia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-9.png)
+*Age-distribution of death over time Switzerland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-10.png)
+*Age-distribution of death over time Czech Republic*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-11.png)
+*Age-distribution of death over time Germany (east & west)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-12.png)
+*Age-distribution of death over time Germany (east)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-13.png)
+*Age-distribution of death over time Germany (west)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-14.png)
+*Age-distribution of death over time Denmark*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-15.png)
+*Age-distribution of death over time Spain*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-16.png)
+*Age-distribution of death over time Estonia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-17.png)
+*Age-distribution of death over time Finland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-18.png)
+*Age-distribution of death over time France (total population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-19.png)
+*Age-distribution of death over time France (civilian population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-20.png)
+*Age-distribution of death over time Greece*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-21.png)
+*Age-distribution of death over time Hungary*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-22.png)
+*Age-distribution of death over time Ireland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-23.png)
+*Age-distribution of death over time Iceland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-24.png)
+*Age-distribution of death over time Israel*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-25.png)
+*Age-distribution of death over time Italy*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-26.png)
+*Age-distribution of death over time Japan*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-27.png)
+*Age-distribution of death over time Lithuania*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-28.png)
+*Age-distribution of death over time Luxembourg*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-29.png)
+*Age-distribution of death over time Latvia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-30.png)
+*Age-distribution of death over time Netherlands*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-31.png)
+*Age-distribution of death over time Norway*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-32.png)
+*Age-distribution of death over time New Zealand (total population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-33.png)
+*Age-distribution of death over time New Zealand (Maori population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-34.png)
+*Age-distribution of death over time New Zealand (non-Maori population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-35.png)
+*Age-distribution of death over time Poland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-36.png)
+*Age-distribution of death over time Portugal*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-37.png)
+*Age-distribution of death over time Russia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-38.png)
+*Age-distribution of death over time Slovakia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-39.png)
+*Age-distribution of death over time Slovenia*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-40.png)
+*Age-distribution of death over time Sweden*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-41.png)
+*Age-distribution of death over time Taiwan*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-42.png)
+*Age-distribution of death over time Ukraine*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-43.png)
+*Age-distribution of death over time Great Britain (total population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-44.png)
+*Age-distribution of death over time England & Wales*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-45.png)
+*Age-distribution of death over time England & Wales (civilian population)*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-46.png)
+*Age-distribution of death over time Scotland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-47.png)
+*Age-distribution of death over time Northern Ireland*
 
 ![](/assets/2017-06-28-the_unknown_pleasures_of_demography/unnamed-chunk-6-48.png)
+*Age-distribution of death over time United States*
