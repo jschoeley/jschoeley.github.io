@@ -10,7 +10,7 @@ layout : post
 
 *Gridded population numbers in Europe 2017. Bubble area scaled to absolute population number. Data: Eurostat ([demo_r_pjanaggr3](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=demo_r_pjanaggr3&lang=en))*
 
-**Update 2017-07-31: I've unintentionally used a non-equal-area grid when creating these bubble-grid maps. [Here's how to avoid that mistake and create an equal-area grid](https://jschoeley.github.io/2018/07/31/equal_area_grid.html)**
+**Update 2018-07-31: I've unintentionally used a non-equal-area grid when creating these bubble-grid maps. [Here's how to avoid that mistake and create an equal-area grid](https://jschoeley.github.io/2018/07/31/equal_area_grid.html)**
 
 I want to show the population density across Europe in a stylized fashion using a regular grid of bubbles sized according to population counts. Using circle-*area* instead of *color* as visual encoding I hope to achieve a more direct depiction of magnitude differences compared to a choropleth map. But really, I'm just messing around with `R`, the `eurostat` and `sf` packages. Let's do a *bubble-grid-map*™©.
 
