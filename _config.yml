@@ -1,13 +1,13 @@
 # Site settings
 title            : Rettungsdecke
-email            : rettungsdecke@gmail.com
+email            : jschoeley@gmail.com
 description      :
   The Rettungsdecke of Jonas Schöley.
   An interdisciplinary meltdown of science,
   music, bragging and the occasional rant.
 baseurl          : ""
 url              : "http://jschoeley.github.io"
-twitter_username : rettungstweet
+twitter_username : jschoeley
 github_username  : jschoeley
 paginate         : 5
 paginate_path    : "/page:num/"
