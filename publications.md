@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+**Kashnitsky, I. & Schöley, J. (2018). [Regional population structures at a glance.](https://doi.org/10.1016/S0140-6736(18)31194-2) The Lancet.**
+
+![](/assets/publications/regional_population_structures.png)
+
+
 **Riffe, T., Schöley, J., & Villavicencio, F. (2017). [A unified framework of demographic time.](https://doi.org/10.1186/s41118-017-0024-4) Genus.**
 
 ![](/assets/publications/apctal.png)
